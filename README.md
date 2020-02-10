@@ -21,8 +21,8 @@ Description of the variables:
 5. Bathrooms - Number of Bathrooms
 6. Offers
 7. Bricks - Made of Bricks
-  - No - 0 
-  - Yes - 1
+    - No - 0 
+    - Yes - 1
 8. Neighbourhood - Neighbourhood
 
 Credits
